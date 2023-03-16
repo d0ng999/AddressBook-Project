@@ -12,4 +12,4 @@ AddressBook making Project without Database(Only in Console)
 
 # AddressBook-Project Upgrade Ver.(Use DB & PyQt5)
 - This is an upgraded version of the last AddressBook
-
+<img width = "80%" src = "https://github.com/d0ng999/AddressBook-Project/blob/main/project_Addr.gif"/>
