@@ -50,14 +50,14 @@
      <item>
       <widget class="QGroupBox" name="groupBox">
        <property name="title">
-        <string>정보입력</string>
+        <string>Input your data</string>
        </property>
        <widget class="QLineEdit" name="txtName">
         <property name="geometry">
          <rect>
           <x>90</x>
           <y>20</y>
-          <width>192</width>
+          <width>200</width>
           <height>21</height>
          </rect>
         </property>
@@ -73,12 +73,12 @@
          <rect>
           <x>20</x>
           <y>20</y>
-          <width>60</width>
+          <width>68</width>
           <height>20</height>
          </rect>
         </property>
         <property name="text">
-         <string>이       름 : </string>
+         <string>Name : </string>
         </property>
         <property name="alignment">
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -87,14 +87,14 @@
        <widget class="QLabel" name="label_6">
         <property name="geometry">
          <rect>
-          <x>20</x>
+          <x>9</x>
           <y>50</y>
-          <width>60</width>
+          <width>79</width>
           <height>20</height>
          </rect>
         </property>
         <property name="text">
-         <string>전화번호 : </string>
+         <string>Mobile num.: </string>
         </property>
         <property name="alignment">
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -105,7 +105,7 @@
          <rect>
           <x>90</x>
           <y>50</y>
-          <width>192</width>
+          <width>200</width>
           <height>21</height>
          </rect>
         </property>
@@ -126,7 +126,7 @@
          </rect>
         </property>
         <property name="text">
-         <string>이  메  일 : </string>
+         <string>E-mail</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -152,7 +152,7 @@
          </rect>
         </property>
         <property name="text">
-         <string>주       소 : </string>
+         <string>Address</string>
         </property>
         <property name="alignment">
          <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -181,7 +181,7 @@
          </rect>
         </property>
         <property name="text">
-         <string>신규</string>
+         <string>New</string>
         </property>
         <property name="autoExclusive">
          <bool>false</bool>
@@ -209,7 +209,7 @@
          </sizepolicy>
         </property>
         <property name="text">
-         <string>저장</string>
+         <string>Save</string>
         </property>
        </widget>
        <widget class="QPushButton" name="btnDel">
@@ -222,7 +222,7 @@
          </rect>
         </property>
         <property name="text">
-         <string>삭제</string>
+         <string>Delete</string>
         </property>
         <property name="autoExclusive">
          <bool>false</bool>
