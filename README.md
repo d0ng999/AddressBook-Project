@@ -17,3 +17,11 @@
 ## Naver OpenAPI Movie Search App.
 - This is a Movie search App. using Naver OpenAPI
 <img width = "80%" src = "https://github.com/d0ng999/Portfolio/blob/main/Naver_OpneAPI_Movie_Version/navermovie.png"/>
+
+## CalCulator Program(made by C#)
+- This is not a perfect Calculator like a Samsung Labtob Calculator
+- But I made it by myself:)
+
+**Program Execution Screen**
+
+<img width = 250, height = 400 src = "https://github.com/d0ng999/Portfolio/blob/main/Calcualator_Myself/Calculator.png"/>        , <img width = 300, height = 400 src = "https://github.com/d0ng999/Portfolio/blob/main/Calcualator_Myself/Calculator.gif"/>
