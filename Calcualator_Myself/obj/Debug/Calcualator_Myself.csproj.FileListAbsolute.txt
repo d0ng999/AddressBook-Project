@@ -1,0 +1,11 @@
+C:\Source\CSharp\05_14\Calcualator_Myself\bin\Debug\Calcualator_Myself.exe.config
+C:\Source\CSharp\05_14\Calcualator_Myself\bin\Debug\Calcualator_Myself.exe
+C:\Source\CSharp\05_14\Calcualator_Myself\bin\Debug\Calcualator_Myself.pdb
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.csproj.AssemblyReference.cache
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.csproj.SuggestedBindingRedirects.cache
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.Form1.resources
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.Properties.Resources.resources
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.csproj.GenerateResource.cache
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.csproj.CoreCompileInputs.cache
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.exe
+C:\Source\CSharp\05_14\Calcualator_Myself\obj\Debug\Calcualator_Myself.pdb
